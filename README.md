@@ -149,6 +149,8 @@
 ### Weakly-supervised segmentation
 - SEC [https://arxiv.org/pdf/1603.06098.pdf]
   + https://github.com/kolesman/SEC [Caffe]
+- Simple Does It [https://arxiv.org/pdf/1603.07485.pdf]
+  + https://github.com/philferriere/tfwss [Tensorflow]
 
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
